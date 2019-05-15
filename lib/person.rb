@@ -4,11 +4,11 @@ class Person
     @job = job
   end
   
-  def get_name
+  def name
     @name
   end
   
-  def set_name=(name)
+  def name=(name)
     @name = name
   end
   
