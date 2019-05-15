@@ -16,7 +16,7 @@ class Person
     @job
   end
   
-  def set_job=(job)
+  def job=(job)
     @job = job
   end
 end
