@@ -19,6 +19,4 @@ class Dog
   def set_breed(breed)
     @breed = breed
   end
-  
-  
 end
