@@ -12,7 +12,7 @@ class Person
     @name = name
   end
   
-  def get_job
+  def job
     @job
   end
   
